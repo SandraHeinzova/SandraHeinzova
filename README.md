@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandra Heinzova
-- 🌱 I’m currently learning Python, JavaScript and mySQL
+- 🌱 I’m currently learning Python and mySQL
 - 🏢 Looking for my first IT job
 - 💞️ I’m on parental leave - mother of two little princesses
 - 📫 How to reach me - heinzova.sandra@gmail.com
