@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Sandra Heinzova </h1>
 
-<li>🌱 I’m currently learning Selenium and BeautifulSoup in Python and mySQL</li>
+<li>🌱 I’m currently learning Selenium and BeautifulSoup in Python and PostgreSQL</li>
 <li>🏢 Looking for my first IT job</li>
 
  ### 🤝 Connect with me:
@@ -20,6 +20,7 @@ Feel free to conect with me!
 <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="beautifulsoup" width="75" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="45" height="45"/>
+<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="45" height="45"/>
    
 </p>
        
