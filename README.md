@@ -46,12 +46,6 @@
   </a>
  </div>
 
-  <br></br>
-
- ##
-
-  <br></br>
-
 <div align="center">
   <div>
     <h3><b>✉️ Contact me </b></h3> <br>
