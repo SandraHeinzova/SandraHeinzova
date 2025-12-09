@@ -28,7 +28,6 @@
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="Pycharm logo" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas logo" />
    <img height="50" width="50" src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="beautifulsoup logo" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask logo" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql logo" />                    
  </div>
 
