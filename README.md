@@ -31,15 +31,6 @@
  </div>
 
 <div align="center">
-  <a href="https://github.com/SandraHeinzova/github-readme-stats">
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SandraHeinzova&hide_border=true&title_color=1E90FF&theme=omni&rank_icon=github"/>
-  </a>
-  <a href="https://github.com/hyskoniho/convoychat">
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandraHeinzova&include_all_commits=true&show_icons=true&count_private=true&layout=compact&langs_count=8&theme=synthwave&text_color=FFFFFF&hide_border=true&title_color=1E90FF&bg_color=0d1117"/>
-  </a>
- </div>
-
-<div align="center">
   <div>
     <h3><b>✉️ Contact me </b></h3> <br>
     <a href = "mailto:heinzova.sandra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logoColor=white" target="_blank"></a>
