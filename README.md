@@ -13,9 +13,8 @@
   </div>
   <ul>
     <li>🏠 I am from Czech Republic <img src="https://publicdomainvectors.org/photos/rodentia-icons_flag-cz.png" width="18"/></li>
-    <li>💻 I chose Python for programming 🐍 so far I worked with these technologies: Flask, Selenium, BeautifulSoap, Pandas, Tkiner and some others</li>
+    <li>💻 I chosed Python for programming 🐍 so far I worked with these technologies: Flask, Selenium, BeautifulSoap, Pandas, Tkiner and some others</li>
     <li>👥 I follow Udemy course, complete projects and focus on my goal</li>
-    <li>💪 I am ready for my first experience and therefore I am looking for my first IT job </li>
   </ul>
 </div>
 
@@ -30,12 +29,6 @@
    <img height="50" width="50" src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="beautifulsoup logo" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql logo" />                    
  </div>
-
- <br></br>
-
-##
-
- <br></br>
 
 <div align="center">
   <a href="https://github.com/SandraHeinzova/github-readme-stats">
